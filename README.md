@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sabahalkhateeb
-- 👀 I’m interested in learning languages and reading book
-- 🌱 I’m currently learning Cpp
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: she / ella /그녀 
+- 😄 Pronouns: she / ella 
 - ⚡ Fun fact: ...
 
 <!---
